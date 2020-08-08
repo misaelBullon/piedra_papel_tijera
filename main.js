@@ -60,6 +60,7 @@ function oneround(player, computer){
 
     
 
+
     //console.log('Jugador: ' + jugador);
     //console.log('Computadora: ' + computadora);
 
