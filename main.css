@@ -1,8 +1,17 @@
 #b{
-    height: auto;
-    width: auto;
+    position: absolute;
+    height: 100%;
+    width: 100%;
     text-align: center;
     margin: 5px;
     padding: 5px;
     background-color: crimson;
+    
+}
+#juego{
+    display: block;
+    justify-content: center;
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
 }
