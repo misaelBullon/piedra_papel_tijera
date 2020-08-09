@@ -1,7 +1,7 @@
 
 //Funcion de eleccion del jugador
 function playerSelection(){
-    var eleccion = prompt('Ingrese su eleccion: 1 = piedra, 2 = papel, 3 = piedra');
+    var eleccion = prompt('Ingrese su eleccion: 1 = piedra, 2 = papel, 3 = papel');
     var cadena;
     if(eleccion > 3 || eleccion < 1){
         alert('Opcion no valida');
